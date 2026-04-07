@@ -13,4 +13,4 @@ Our upfront365 Live Event calendar is responsive with a full-calendar (rotated l
 
 live example  https://upfront365.com/
 
-Additional 160MB zip file of svg and cdr editable poster files on on the website´s for download.
+Additional 47MB zip file of svg and cdr editable poster files on on the website´s for download.
